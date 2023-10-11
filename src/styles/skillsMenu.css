@@ -3,7 +3,7 @@
   position: fixed;
   display: flex;
   flex-direction: column;
-  top: 30%;
+  top: 20%;
   right: 15vw;
   align-items: flex-end;
 }
@@ -209,8 +209,12 @@ img{
 @media (max-width: 700px) {
   .menu {
     width: 10rem;
-    top: 30%;
+    top: 32%;
     left: 50%;
     transform: translateY(-50%);
+  }
+  .skill-menu {
+    
+    top: 25%;
   }
 }

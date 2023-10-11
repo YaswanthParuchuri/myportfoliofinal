@@ -69,7 +69,7 @@ const skills = {
     {
       title: "Java",
       icon: java,
-      level: 2,
+      level: 3,
     },
     {
       title: "MongoDB",

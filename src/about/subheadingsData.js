@@ -58,7 +58,6 @@ const subheadingsData = {
         <p>I led end-to-end UI/UX design, deploying a user-friendly application with Angular and Angular Material components.</p>
         <p>By automating CRUD operations and reducing database usage by 80%, I improved application performance significantly. </p>
         <p> My expertise in CI/CD integration, cross-browser compatibility, and unit testing ensured a seamless user experience.</p>
-        <p> I embraced Agile methodologies, resulting in a 20% reduction in project delivery time.</p>
         </>
       ),
     },

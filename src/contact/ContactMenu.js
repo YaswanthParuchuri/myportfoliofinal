@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import emailjs from "emailjs-com";
 import DOMPurify from "dompurify";
 
-import userEvent from "@testing-library/user-event";
-
 export default function ContactMenu() {
   const initialState = {
     name: "",

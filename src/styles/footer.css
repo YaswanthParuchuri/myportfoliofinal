@@ -19,11 +19,11 @@
     height: 30px;
   }
   
-  a {
+  #footer a {
     margin:0 2rem;
   }
   
-  p {
+  #footer p {
     font-size: 0.7rem;
 
   }
@@ -31,8 +31,7 @@
   @media (max-width: 1100px)
    {
     #footer {
-    z-index: 2;
-    
+    z-index: 2;    
     float: right;
     top: 0;
     color: white;
