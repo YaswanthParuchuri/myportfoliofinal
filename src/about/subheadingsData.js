@@ -55,7 +55,7 @@ const subheadingsData = {
         <>
         <p>Feb 2019-Dec 2021</p>
         <p>CMargin is an innovative margin management tool that predicts, optimizes, and commits margins for entire projects, enhancing efficiency.</p>
-        <p>I led end-to-end UI/UX design, deploying a user-friendly application with Angular and Angular Material components.</p>
+        <p>I led end-to-end UI/UX design, deploying a user-friendly application with React and Material-UI components.</p>
         <p>By automating CRUD operations and reducing database usage by 80%, I improved application performance significantly. </p>
         <p> My expertise in CI/CD integration, cross-browser compatibility, and unit testing ensured a seamless user experience.</p>
         </>
