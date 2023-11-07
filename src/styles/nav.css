@@ -6,7 +6,10 @@
   right:5%;
   gap: 1.5625rem;  
   z-index: 2;
+  
 }
+
+
 .nav img {
   width:30px;
   height:30px;
@@ -39,13 +42,15 @@ a {
   cursor: default;
 }
 
-.nav-link {
+ .nav-link {
   opacity: 0.7;
+  transition: transform .2s;
 }
 
 .nav-link:hover {
   opacity: 1;
-}
+  transform: scale(1.5);
+} 
 
 .nav-link.current {
   opacity: 1;
@@ -67,6 +72,8 @@ a {
   }
   .nav-link {
     width: 2rem;
+    opacity: 1;
+    
   }
   .nav-link img {
     width: 2rem;

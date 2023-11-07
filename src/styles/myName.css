@@ -10,6 +10,7 @@
 }
 .container{
   width:3 rem;
+  font-size: 1.5rem;
   display: inline-block;
 }
 h1{
@@ -43,6 +44,11 @@ h2 {
     height: 2.5rem;
     top: 2rem;
   }
+  .container{
+    font-size: 0.8rem;
+    display: inline-block;
+  }
+
   @keyframes typing {
     from { width: 0 }
     to { width: 56% }
